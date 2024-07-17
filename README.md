@@ -1,2 +1,2 @@
 # c-apocalypse
-Mastering C Programming Before the Apocalypse.
+Mastering C Before the Apocalypse.
